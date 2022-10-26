@@ -3,7 +3,7 @@ name: Ghi nhận lỗi
 about: Create a report to help us improve
 title: Lỗi
 labels: ''
-assignees: ''
+assignees: vuongdh
 
 ---
 
