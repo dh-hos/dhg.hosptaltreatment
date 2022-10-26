@@ -3,7 +3,7 @@ name: Ghi nhận yêu cầu
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: ''
+assignees: vuongdh
 
 ---
 
