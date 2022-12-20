@@ -1,7 +1,7 @@
 ---
 name: Ghi nhận yêu cầu
 about: Suggest an idea for this project
-title: ''
+title: 'Yêu cầu - '
 labels: ''
 assignees: vuongdh
 
