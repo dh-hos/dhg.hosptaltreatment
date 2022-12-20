@@ -1,7 +1,7 @@
 ---
 name: Ghi nhận lỗi
 about: Create a report to help us improve
-title: Lỗi
+title: 'Lỗi - '
 labels: ''
 assignees: vuongdh
 
