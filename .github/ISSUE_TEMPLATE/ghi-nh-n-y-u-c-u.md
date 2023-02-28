@@ -2,7 +2,7 @@
 name: Ghi nhận yêu cầu
 about: Suggest an idea for this project
 title: 'Yêu cầu - '
-labels: ''
+labels: 2. Bình thường
 assignees: vuongdh
 
 ---
