@@ -2,7 +2,7 @@
 name: Ghi nhận lỗi
 about: Create a report to help us improve
 title: 'Lỗi - '
-labels: ''
+labels: 2. Bình thường
 assignees: vuongdh
 
 ---
