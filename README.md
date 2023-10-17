@@ -3,6 +3,6 @@
 <h2>DHG.Hospital Treatment</h2>
 
 ## Nội dung cập nhật
-<div align="center">
+<div align="left">
 Cập nhật
 </div>
