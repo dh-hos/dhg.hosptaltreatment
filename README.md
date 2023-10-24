@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.10.24v1](https://gofile.me/78TQg/zaZQXoAkL)
+- [#162](https://github.com/dh-hos/dhg.hosptaltreatment/issues/162)
+- <b>Lỗi:</b> Lỗi - Lỗi in phiếu tử vong tt24 #162
+  
 ##### [Treat4.2023.10.18v1](https://gofile.me/78TQg/PgoLtI0PI)
 - [#127](https://github.com/dh-hos/To_Lap_Trinh/issues/127)
 - <b>Yêu cầu:</b> Bắt buộc nhập sinh hiệu và định mức tồn kho (BV Trà Cú) #127
