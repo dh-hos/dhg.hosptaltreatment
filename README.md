@@ -7,7 +7,7 @@
 ##### [Treat4.2023.10.25v1](https://gofile.me/78TQg/491cE434B)
 - [#162](https://github.com/dh-hos/dhg.hosptaltreatment/issues/162)
 - <b>Lỗi:</b> Lỗi in phiếu tử vong tt24 #162
--   - Không hiển thị đơn vị tính thời gian
+   - Không hiển thị đơn vị tính thời gian
 - [#125](https://github.com/dh-hos/dhg.hospitalprinter/issues/125)
 - <b>Lỗi:</b> Không phục hồi được toa nhà thuốc đã bấm Không lấy thuốc của toa nội trú. #125
 
