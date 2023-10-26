@@ -4,6 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.10.26v1](https://gofile.me/78TQg/32bPeTSXU)
+- [#128](https://github.com/dh-hos/To_Lap_Trinh/issues/128)
+- <b>Yêu cầu:</b> Bệnh nhân nội trú BHYT ra viện dưới 4h không bắt đối với cls ngày giường không thanh bhyt (BV Tâm Phúc) #128
+   - Đối với CLS tiền gường không thanh BHYT:
+      - Không kiểm tra khi giờ điều trị <=4h
+      - Không kiểm tra ngày nhập kết quả 
+
 ##### [Treat4.2023.10.25v1](https://gofile.me/78TQg/491cE434B)
 - [#162](https://github.com/dh-hos/dhg.hosptaltreatment/issues/162)
 - <b>Lỗi:</b> Lỗi in phiếu tử vong tt24 #162
