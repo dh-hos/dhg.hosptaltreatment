@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.10.31v2](https://gofile.me/78TQg/Y8l7zLHkG)
+- [#113](https://github.com/dh-hos/To_Lap_Trinh/issues/113)
+- <b>Yêu cầu:</b> In phiếu chỉ định CLS tách theo Loại CLS #113
+- <b>Thực hiện theo mô tả:</b> [mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Bi%20-%20Mo%20ta%20Phan%20phieu%20chi%20dinh%20theo%20nhom%20cac%20loai%20CLS.md)
+
 ##### [Treat4.2023.10.31v1](https://gofile.me/78TQg/0k9rudZeC)
 - [#163](https://github.com/dh-hos/dhg.hosptaltreatment/issues/163)
 - <b>Lỗi:</b> Không xuất viện được trường hợp bệnh nhân có toa và trả toa sau thời gian ra viện. (BV Thạnh Trị) #163
