@@ -4,6 +4,15 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.10.31v1](https://gofile.me/78TQg/0k9rudZeC)
+- [#163](https://github.com/dh-hos/dhg.hosptaltreatment/issues/163)
+- <b>Lỗi:</b> Không xuất viện được trường hợp bệnh nhân có toa và trả toa sau thời gian ra viện. (BV Thạnh Trị) #163
+   - Nguyên nhân ra lỗi:
+      - Theo yêu cầu kiểm soát đến giờ ra toa (cột ngaylap, ngayhd không có thông tin giờ) --> kiểm tra cột giolap để đáp ứng yêu cầu
+      - Phiên bản cũ hơn ghi nhận giờ lập theo ngày giờ hệ thống khi lập phiếu
+      - Phiên bản này sẽ cập nhật giờ lập theo ngày giờ ngày giờ ngày hóa đơn trên form
+      - P/s: khắc phục lỗi cũ bằng script (nếu người dùng có cầu cụ thể)
+
 ##### [Treat4.2023.10.26v1](https://gofile.me/78TQg/32bPeTSXU)
 - [#128](https://github.com/dh-hos/To_Lap_Trinh/issues/128)
 - <b>Yêu cầu:</b> Bệnh nhân nội trú BHYT ra viện dưới 4h không bắt đối với cls ngày giường không thanh bhyt (BV Tâm Phúc) #128
