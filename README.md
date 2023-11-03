@@ -4,6 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.03v2](https://gofile.me/78TQg/EL43crOed)
+- [#65](https://github.com/dh-hos/To_Lap_Trinh/issues/65)
+- <b>Yêu cầu:</b> Cảnh báo BN điều trị từ 04h đến dưới 24h #65
+- <b>Thực hiện:</b>
+     - Khi tổng giờ điều trị: >4 và <=24
+          - Kiểm tra cận lâm sàn giường bệnh (bhyt) có số lượng > 1 --> cảnh báo.
+
 ##### [Treat4.2023.10.31v2](https://gofile.me/78TQg/Y8l7zLHkG)
 - [#113](https://github.com/dh-hos/To_Lap_Trinh/issues/113)
 - <b>Yêu cầu:</b> In phiếu chỉ định CLS tách theo Loại CLS #113
