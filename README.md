@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.06v1]()
+- [#164](https://github.com/dh-hos/dhg.hosptaltreatment/issues/164)
+- <b>Lỗi:</b> Lỗi - Không hiển thị tên loại CLS trên phiếu XN #164
+          - 
 ##### [Treat4.2023.11.03v2](https://gofile.me/78TQg/EL43crOed)
 - [#65](https://github.com/dh-hos/To_Lap_Trinh/issues/65)
 - <b>Yêu cầu:</b> Cảnh báo BN điều trị từ 04h đến dưới 24h #65
