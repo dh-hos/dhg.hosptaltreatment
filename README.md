@@ -4,7 +4,7 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2023.11.06v1]()
+##### [Treat4.2023.11.06v1](https://gofile.me/78TQg/NLr4gIr00)
 - [#164](https://github.com/dh-hos/dhg.hosptaltreatment/issues/164)
 - <b>Lỗi:</b> Lỗi - Không hiển thị tên loại CLS trên phiếu XN #164
           - 
