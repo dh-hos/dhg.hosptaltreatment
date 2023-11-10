@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.10v1](https://gofile.me/78TQg/CyP0mOHF7)
+- [#165](https://github.com/dh-hos/dhg.hosptaltreatment/issues/165)
+- <b>Lỗi:</b> Treatment Phiếu Trích BBHC hiển thị bị khuất tên Khoa điều trị ! #165
+- <b>Cập nhât:</b> đổi sang mẫu biểu tự thiết kế
+- <b>Đối tượng áp dụng:</b> Tất cả bệnh viện
+  
 ##### [Treat4.2023.11.06v1](https://gofile.me/78TQg/NLr4gIr00)
 - [#164](https://github.com/dh-hos/dhg.hosptaltreatment/issues/164)
 - <b>Lỗi:</b> Lỗi - Không hiển thị tên loại CLS trên phiếu XN #164
