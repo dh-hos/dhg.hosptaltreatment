@@ -1,4 +1,4 @@
-Cập nhật [Treat4.2023.11.03v2](https://gofile.me/78TQg/EL43crOed)
+Cập nhật <b>Treat4.2023.11.10v1 </b>- vào chi tiết để tải bản cập nhật
 
 <div align="left">
 
