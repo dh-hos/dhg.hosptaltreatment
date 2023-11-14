@@ -4,6 +4,15 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.14v2](https://gofile.me/78TQg/Nz5oRyoCP)
+- [#152](https://github.com/dh-hos/To_Lap_Trinh/issues/152)
+- <b>Yêu cầu:</b> Bổ sung chức năng cho chọn lại cận làm sàng đã chỉ định để in
+- <b>Cập nhât:</b>
+    - Thêm cột in trên lưới chỉ định: người dùng có thể tùy chọn in hoặc không in CLS nào đó
+    - Thêm check tất cả: chọn tất cả hoặc bỏ chọn CLS cần in
+- <b>Đối tượng áp dụng:</b> Tất cả bệnh viện
+- <b>Ngoại lệ:</b> Đối với BV TMĐ Tiền Giang in trưc tiếp ra máy in, các đơn vị còn lại PrintView
+
 ##### [Treat4.2023.11.14v1](https://gofile.me/78TQg/F3T2btsw8)
 - [#38](https://github.com/dh-hos/To_Lap_Trinh/issues/38#event-10921913254)
 - <b>Yêu cầu:</b> Xóa diễn biến #38
