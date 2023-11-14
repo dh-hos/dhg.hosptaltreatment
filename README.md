@@ -4,6 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.14v3](https://gofile.me/78TQg/mQSDuzRWz)
+- [#45](https://github.com/dh-hos/To_Lap_Trinh/issues/45)
+- <b>Yêu cầu:</b> Yêu cầu - Tách phiếu thuốc theo Quyết toán riêng. #45
+- <b>Cập nhât:</b>
+    - Tổng hợp lãnh, trả thuốc tại khoa: tách thuốc, VTTH theo quyết toán riêng
+- <b>Đối tượng áp dụng:</b> Tất cả bệnh viện
+
 ##### [Treat4.2023.11.14v2](https://gofile.me/78TQg/Nz5oRyoCP)
 - [#152](https://github.com/dh-hos/To_Lap_Trinh/issues/152)
 - <b>Yêu cầu:</b> Bổ sung chức năng cho chọn lại cận làm sàng đã chỉ định để in
