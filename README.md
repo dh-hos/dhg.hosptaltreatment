@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.14v1](https://gofile.me/78TQg/F3T2btsw8)
+- [#38](https://github.com/dh-hos/To_Lap_Trinh/issues/38#event-10921913254)
+- <b>Yêu cầu:</b> Xóa diễn biến #38
+- <b>Cập nhât:</b> Khi xóa diễn biến kiểm tra có được sử dụng hay chưa? Chưa thì được xóa.
+- <b>Đối tượng áp dụng:</b> Tất cả bệnh viện
+
 ##### [Treat4.2023.11.10v1](https://gofile.me/78TQg/CyP0mOHF7)
 - [#165](https://github.com/dh-hos/dhg.hosptaltreatment/issues/165)
 - <b>Lỗi:</b> Treatment Phiếu Trích BBHC hiển thị bị khuất tên Khoa điều trị ! #165
