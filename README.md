@@ -4,12 +4,19 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.16v1](https://gofile.me/78TQg/wUiYAEJYf)
+- [#116](https://github.com/dh-hos/To_Lap_Trinh/issues/116)
+- <b>Yêu cầu:</b> Yêu cầu - Chức năng GCS theo đề án 06 theo địa chỉ của con #116
+- <b>Cập nhât:</b>
+    - cập nhật DH.ThongTinKSK.dll lấy dữ liệu đúng yêu cầu
+- <b>Áp dụng:</b> Tất cả bệnh viện
+- 
 ##### [Treat4.2023.11.14v3](https://gofile.me/78TQg/mQSDuzRWz)
 - [#45](https://github.com/dh-hos/To_Lap_Trinh/issues/45)
 - <b>Yêu cầu:</b> Yêu cầu - Tách phiếu thuốc theo Quyết toán riêng. #45
 - <b>Cập nhât:</b>
     - Tổng hợp lãnh, trả thuốc tại khoa: tách thuốc, VTTH theo quyết toán riêng
-- <b>Đối tượng áp dụng:</b> Tất cả bệnh viện
+- <b>Áp dụng:</b> Tất cả bệnh viện
 
 ##### [Treat4.2023.11.14v2](https://gofile.me/78TQg/Nz5oRyoCP)
 - [#152](https://github.com/dh-hos/To_Lap_Trinh/issues/152)
@@ -30,7 +37,7 @@
 - [#165](https://github.com/dh-hos/dhg.hosptaltreatment/issues/165)
 - <b>Lỗi:</b> Treatment Phiếu Trích BBHC hiển thị bị khuất tên Khoa điều trị ! #165
 - <b>Cập nhât:</b> đổi sang mẫu biểu tự thiết kế
-- <b>Đối tượng áp dụng:</b> Tất cả bệnh viện
+- <b>Áp dụng:</b> Tất cả bệnh viện
   
 ##### [Treat4.2023.11.06v1](https://gofile.me/78TQg/NLr4gIr00)
 - [#164](https://github.com/dh-hos/dhg.hosptaltreatment/issues/164)
