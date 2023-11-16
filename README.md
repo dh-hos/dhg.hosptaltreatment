@@ -10,7 +10,7 @@
 - <b>Cập nhât:</b>
     - cập nhật DH.ThongTinKSK.dll lấy dữ liệu đúng yêu cầu
 - <b>Áp dụng:</b> Tất cả bệnh viện
-- 
+
 ##### [Treat4.2023.11.14v3](https://gofile.me/78TQg/mQSDuzRWz)
 - [#45](https://github.com/dh-hos/To_Lap_Trinh/issues/45)
 - <b>Yêu cầu:</b> Yêu cầu - Tách phiếu thuốc theo Quyết toán riêng. #45
