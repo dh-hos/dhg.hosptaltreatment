@@ -4,11 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2023.11.16v1](https://gofile.me/78TQg/wUiYAEJYf)
+##### [Treat4.2023.11.16v2](https://gofile.me/78TQg/bWxQBdKRO)
 - [#116](https://github.com/dh-hos/To_Lap_Trinh/issues/116)
 - <b>Yêu cầu:</b> Yêu cầu - Chức năng GCS theo đề án 06 theo địa chỉ của con #116
 - <b>Cập nhât:</b>
-    - cập nhật DH.ThongTinKSK.dll lấy dữ liệu đúng yêu cầu
+    - Cập nhật DH.ThongTinKSK.dll lấy dữ liệu đúng yêu cầu
 - <b>Áp dụng:</b> Tất cả bệnh viện
 
 ##### [Treat4.2023.11.14v3](https://gofile.me/78TQg/mQSDuzRWz)
