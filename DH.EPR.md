@@ -4,7 +4,8 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2023.11.17v1](https://gofile.me/78TQg/dvkHO74sx)
-- [#166](https://github.com/dh-hos/dhg.hosptaltreatment/issues/166)
-- <b>Lỗi:</b> KHI KẾT THÚC ĐIỀU TRỊ CÁC TRƯỜNG HỌP VÀO VIỆN VÀ RA VIỆN CHƯA ĐỦ 24 GIỜ #166
+##### DH.EPR (ver 2023.11.17v1)
+- [Link tải Cấu hình EPR](https://github.com/dh-hos/dhg.hosptaltreatment/issues/166)
+- [Link tải Auto EPR](https://github.com/dh-hos/dhg.hosptaltreatment/issues/166)
+- <b>Cập nhật:</b> Bổ sung BV [82242] BVĐK TÂM MINH ĐỨC TIỀN GIANG
 
