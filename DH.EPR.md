@@ -5,7 +5,7 @@
 
 ## Nội dung cập nhật
 ##### DH.EPR (ver 2023.11.17v1)
-- [Link tải Cấu hình EPR](https://github.com/dh-hos/dhg.hosptaltreatment/issues/166)
-- [Link tải Auto EPR](https://github.com/dh-hos/dhg.hosptaltreatment/issues/166)
+- [Link tải Cấu hình EPR](https://gofile.me/78TQg/VnWNICPsC)
+- [Link tải Auto EPR](https://gofile.me/78TQg/UCwFj0TSE)
 - <b>Cập nhật:</b> Bổ sung BV [82242] BVĐK TÂM MINH ĐỨC TIỀN GIANG
 
