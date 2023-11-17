@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/dh-hos/dhg.hospitalprinter/main/Deploy_Tools/Logo.ico" alt="Simple Icons" width=70>
+<img src="https://raw.githubusercontent.com/dh-hos/dhg.hosptaltreatment/main/DH2.ico" alt="Simple Icons" width=70>
 <h2>DHG.EPR</h2>
 </div>
 
