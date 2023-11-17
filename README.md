@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.17v1](https://gofile.me/78TQg/dvkHO74sx)
+- [#166](https://github.com/dh-hos/dhg.hosptaltreatment/issues/166)
+- <b>Lỗi:</b> KHI KẾT THÚC ĐIỀU TRỊ CÁC TRƯỜNG HỌP VÀO VIỆN VÀ RA VIỆN CHƯA ĐỦ 24 GIỜ #166
+
 ##### [Treat4.2023.11.16v2](https://gofile.me/78TQg/bWxQBdKRO)
 - [#116](https://github.com/dh-hos/To_Lap_Trinh/issues/116)
 - <b>Yêu cầu:</b> Yêu cầu - Chức năng GCS theo đề án 06 theo địa chỉ của con #116
