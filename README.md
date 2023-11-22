@@ -4,7 +4,7 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2023.11.22v1](https://gofile.me/78TQg/yabkuDbQq)
+##### [Treat4.2023.11.22v2](https://gofile.me/78TQg/y9a4ZvNLd)
 - [#157](https://github.com/dh-hos/To_Lap_Trinh/issues/157)
 - <b>Yêu cầu:</b>Treatment Lấy toa nhà thuốc hỗ trợ đúng mẫu Nghiện Hướng thần giống ngoại trú #157
 
