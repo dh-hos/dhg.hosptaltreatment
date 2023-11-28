@@ -4,9 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.28v1](https://gofile.me/78TQg/bKLgCGccn)
+- [#169](https://github.com/dh-hos/dhg.hosptaltreatment/issues/169)
+- <b>Lỗi: </b>Gửi giấy chứng sinh theo đề án 06 (BV Sadec) #169
+  
 ##### [Treat4.2023.11.22v2](https://gofile.me/78TQg/y9a4ZvNLd)
 - [#157](https://github.com/dh-hos/To_Lap_Trinh/issues/157)
-- <b>Yêu cầu:</b>Treatment Lấy toa nhà thuốc hỗ trợ đúng mẫu Nghiện Hướng thần giống ngoại trú #157
+- <b>Yêu cầu: </b> Treatment Lấy toa nhà thuốc hỗ trợ đúng mẫu Nghiện Hướng thần giống ngoại trú #157
 
 
 ##### [Treat4.2023.11.21v2](https://gofile.me/78TQg/cyvWjwX7P)
