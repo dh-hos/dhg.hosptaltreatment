@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.29v2](https://gofile.me/78TQg/Osml6ZZ8E)
+- [#169](https://github.com/dh-hos/dhg.hosptaltreatment/issues/169)
+- <b>Lỗi: </b>Gửi giấy chứng sinh theo đề án 06 (BV Sadec) #169
+- [#170](https://github.com/dh-hos/dhg.hosptaltreatment/issues/170)
+- <b>Lỗi: </b>Toa xuất viện chẩn đoán bị lập lại #170
+  
 
 ##### [Treat4.2023.11.29v1](https://gofile.me/78TQg/ULfRAGlcy)
 - [#169](https://github.com/dh-hos/dhg.hosptaltreatment/issues/169)
