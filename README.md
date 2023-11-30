@@ -4,6 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.11.30v1](https://gofile.me/78TQg/tcTEyWblk)
+- [#131](https://github.com/dh-hos/To_Lap_Trinh/issues/131)
+- <b>Yêu cầu: </b>Bổ sung mẫu giấy hẹn tái khám và Chuyển viện theo công văn 75/2023/NĐ-CP #131
+   - Giấy hẹn tái khám (bật tham số nt.giayhena5 = 4)
+   - Giấy chuyển viện: đang thực hiện
+
+
 ##### [Treat4.2023.11.29v2](https://gofile.me/78TQg/Osml6ZZ8E)
 - [#169](https://github.com/dh-hos/dhg.hosptaltreatment/issues/169)
 - <b>Lỗi: </b>Gửi giấy chứng sinh theo đề án 06 (BV Sadec) #169
