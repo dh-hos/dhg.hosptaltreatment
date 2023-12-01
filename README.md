@@ -4,6 +4,16 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.01v4](https://gofile.me/78TQg/FMFbMoj84)
+- [#131](https://github.com/dh-hos/To_Lap_Trinh/issues/131)
+- <b>Yêu cầu: </b>Bổ sung mẫu giấy hẹn tái khám và Chuyển viện theo công văn 75/2023/NĐ-CP #131
+   - Giấy hẹn tái khám (bật tham số nt.giayhena5 = 4)
+   - Check đồng thời cấp cứu và đúng tuyến (tham khảo tham số: nt.checkcapcuu)
+   - Giấy chuyển viện: (bật tham số cv.thongtu14 = 3)
+   - Cập nhật phiếu chỉ định tự thiết kế BV Sa Đéc
+   
+     P/s: Chạy script cập nhật nội dung tham số
+     
 ##### [Treat4.2023.12.01v2](https://gofile.me/78TQg/1VqHOILaz)
 - [#131](https://github.com/dh-hos/To_Lap_Trinh/issues/131)
 - <b>Yêu cầu: </b>Bổ sung mẫu giấy hẹn tái khám và Chuyển viện theo công văn 75/2023/NĐ-CP #131
