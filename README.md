@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.01v5](https://gofile.me/78TQg/GOy1iJU5U)
+- [#189](https://github.com/dh-hos/To_Lap_Trinh/issues/189)
+- <b>Yêu cầu: </b>Load thêm các cận lâm sàng có check "CP Nội bộ" lên bảng kê
+- Áp dụng: BV Phụ Sản Cần Thơ (92118)
+     
 ##### [Treat4.2023.12.01v4](https://gofile.me/78TQg/FMFbMoj84)
 - [#131](https://github.com/dh-hos/To_Lap_Trinh/issues/131)
 - <b>Yêu cầu: </b>Bổ sung mẫu giấy hẹn tái khám và Chuyển viện theo công văn 75/2023/NĐ-CP #131
