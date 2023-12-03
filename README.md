@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.03v1](https://gofile.me/78TQg/AtUA6kr6w)
+- [#190](https://github.com/dh-hos/To_Lap_Trinh/issues/190)
+- <b>Yêu cầu: </b>Mở chức năng ra toa nhiều tủ trực #190
+- Áp dụng: BV Thốt Nốt - Cần Thơ(92010)
+  
 ##### [Treat4.2023.12.01v5](https://gofile.me/78TQg/GOy1iJU5U)
 - [#189](https://github.com/dh-hos/To_Lap_Trinh/issues/189)
 - <b>Yêu cầu: </b>Load thêm các cận lâm sàng có check "CP Nội bộ" lên bảng kê
