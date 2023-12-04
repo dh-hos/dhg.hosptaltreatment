@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.04v2](https://gofile.me/78TQg/BBNYozSeb)
+- [#171](https://github.com/dh-hos/dhg.hosptaltreatment/issues/171)
+- <b>Lỗi: </b>Nút in Chỉ định CLS chuyển tuyến trên không tác dụng và Cập nhật nội dung Lý do chuyển theo NĐ75 #171
+
+  
 ##### [Treat4.2023.12.03v1](https://gofile.me/78TQg/AtUA6kr6w)
 - [#190](https://github.com/dh-hos/To_Lap_Trinh/issues/190)
 - <b>Yêu cầu: </b>Mở chức năng ra toa nhiều tủ trực #190
