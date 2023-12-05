@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.05v4](https://gofile.me/78TQg/l30cseppC)
+- [#171](https://github.com/dh-hos/dhg.hosptaltreatment/issues/171)
+- <b>Lỗi: </b>Nút in Chỉ định CLS chuyển tuyến trên không tác dụng và Cập nhật nội dung Lý do chuyển theo NĐ75 #171
+
 ##### [Treat4.2023.12.05v3](https://gofile.me/78TQg/jHecVPNRu)
 - [#175](https://github.com/dh-hos/dhg.hosptaltreatment/issues/175)
 - <b>Lỗi: </b>Phiếu hẹn tái khám không check được trái tuyến. #175
