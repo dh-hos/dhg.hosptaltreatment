@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.05v3](https://gofile.me/78TQg/jHecVPNRu)
+- [#175](https://github.com/dh-hos/dhg.hosptaltreatment/issues/175)
+- <b>Lỗi: </b>Phiếu hẹn tái khám không check được trái tuyến. #175
+
+
 ##### [Treat4.2023.12.05v2](https://gofile.me/78TQg/j0Ce3dnCB)
 - [#172](https://github.com/dh-hos/dhg.hosptaltreatment/issues/172)
 - <b>Lỗi: </b>Thành tiền tính sai đối với CLS DV #172
