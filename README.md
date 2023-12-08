@@ -4,6 +4,18 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.08v1](https://gofile.me/78TQg/bK1i5R68H)
+- [#192](https://github.com/dh-hos/To_Lap_Trinh/issues/192)
+- <b>Yêu cầu: </b>1.7 Module Treatment cập nhật ngay5nam (QĐ 130)
+- Script hỗ trợ test:
+
+ALTER TABLE current.ttcon
+ADD COLUMN ngay5nam DATE;
+COMMENT ON COLUMN current.ttcon.ngay5nam
+IS 'Ngày 5 năm liên tuc';
+
+P/s: Trên bảng bnnoitru đã có cột này
+
 ##### [Treat4.2023.12.06v1](https://gofile.me/78TQg/91zFh1fLy)
 - [#190](https://github.com/dh-hos/To_Lap_Trinh/issues/190)
 - <b>Yêu cầu: </b>Mở chức năng ra toa nhiều tủ trực #190
