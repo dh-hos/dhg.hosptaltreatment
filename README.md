@@ -4,6 +4,21 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.10v1](https://gofile.me/78TQg/JT3gxk2wx)
+- [#197](https://github.com/dh-hos/To_Lap_Trinh/issues/197)
+- <b>Yêu cầu: </b>Thực hiện hợp đồng - Phiếu tình trạng dinh dưỡng #197
+- Hướng dẫn:
+    - Thêm/chỉnh tình trạng dinh dưỡng:
+      
+      ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/98461080-d852-44d9-b9a3-1138616b2363)
+      
+    
+    - Xem báo cáo:
+      
+      ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/7f1e7731-78f7-4a4e-b4d4-d93a776ef013)
+
+
+
 ##### [Treat4.2023.12.08v1](https://gofile.me/78TQg/bK1i5R68H)
 - [#192](https://github.com/dh-hos/To_Lap_Trinh/issues/192)
 - <b>Yêu cầu: </b>1.7 Module Treatment cập nhật ngay5nam (QĐ 130)
