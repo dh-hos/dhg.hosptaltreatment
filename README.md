@@ -4,6 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.11v3](https://gofile.me/78TQg/NX6DMDKHP)
+- [#197](https://github.com/dh-hos/To_Lap_Trinh/issues/197)
+- <b>Yêu cầu: </b>Thực hiện hợp đồng - Phiếu tình trạng dinh dưỡng #197
+- Áp dụng: BV Nhi Cần Thơ (92003)
+  
+      - Chỉ cho phép ra thuốc/chỉ định cls sau khi lập phiếu tình trạng dinh dưỡng
+
 ##### [Treat4.2023.12.11v2](https://gofile.me/78TQg/R2TLllvsm)
 - [#177](https://github.com/dh-hos/dhg.hosptaltreatment/issues/177)
 - <b>Lỗi: </b>Giấy chuyển tuyến Chỉ định CLS sai tiêu đề#177
