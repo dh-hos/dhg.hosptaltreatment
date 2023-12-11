@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.11v2](https://gofile.me/78TQg/R2TLllvsm)
+- [#177](https://github.com/dh-hos/dhg.hosptaltreatment/issues/177)
+- <b>Lỗi: </b>Giấy chuyển tuyến Chỉ định CLS sai tiêu đề#177
+
 ##### [Treat4.2023.12.11v1](https://gofile.me/78TQg/IoY693cON)
 - [#197](https://github.com/dh-hos/To_Lap_Trinh/issues/197)
 - <b>Yêu cầu: </b>Thực hiện hợp đồng - Phiếu tình trạng dinh dưỡng #197
