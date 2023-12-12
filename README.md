@@ -4,6 +4,17 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.12v1](https://gofile.me/78TQg/lQq0Gjcvt)
+- [#199](https://github.com/dh-hos/To_Lap_Trinh/issues/199)
+- <b>Yêu cầu: </b>Hiển thị Mã GCS trên giấy chứng sinh #199
+- Áp dụng: Tất cả
+  
+      - Mã GSC = A + .GSC. + B + C
+      - Trong đó: A = 5 ký tự ký cuối số CS. B = mã số bệnh viện. C = 2 ký tự cuối năm kế toán
+      - VD: 00001.GCS.92003.23
+
+  P/s: Bên gửi giấy chứng sinh cũng lấy mã GCS theo cấu trúc này
+
 ##### [Treat4.2023.12.11v3](https://gofile.me/78TQg/NX6DMDKHP)
 - [#197](https://github.com/dh-hos/To_Lap_Trinh/issues/197)
 - <b>Yêu cầu: </b>Thực hiện hợp đồng - Phiếu tình trạng dinh dưỡng #197
