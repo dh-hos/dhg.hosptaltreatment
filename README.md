@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.13v1](https://gofile.me/78TQg/iIgbupfuU)
+- [#178](https://github.com/dh-hos/dhg.hosptaltreatment/issues/178)
+- <b>Lỗi: </b>PHIẾU CHĂM SÓC CHƯA CÓ DỮ LIỆU VẪN BẤM CHỈNH ĐƯỢC #178
+
 ##### [Treat4.2023.12.12v1](https://gofile.me/78TQg/lQq0Gjcvt)
 - [#199](https://github.com/dh-hos/To_Lap_Trinh/issues/199)
 - <b>Yêu cầu: </b>Hiển thị Mã GCS trên giấy chứng sinh #199
