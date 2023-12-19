@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.19v1](https://gofile.me/78TQg/D1zLOnf48)
+- [#203](https://github.com/dh-hos/To_Lap_Trinh/issues/203)
+- <b>Yêu cầu: </b>Hỗ trợ chức năng tách phiếu thu CLS nội bộ #203
+   - Khi in phiếu 6556: tách chi phí nội bộ trong một bảng kê riêng
+  
 ##### [Treat4.2023.12.13v1](https://gofile.me/78TQg/iIgbupfuU)
 - [#178](https://github.com/dh-hos/dhg.hosptaltreatment/issues/178)
 - <b>Lỗi: </b>PHIẾU CHĂM SÓC CHƯA CÓ DỮ LIỆU VẪN BẤM CHỈNH ĐƯỢC #178
