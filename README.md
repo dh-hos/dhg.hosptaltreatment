@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.20v2](https://gofile.me/78TQg/NfgoKIEsr)
+- [#179](https://github.com/dh-hos/dhg.hosptaltreatment/issues/179)
+- <b>Lỗi: </b>Không cho nhập số con còn sống có độ dài > 1 #179
+   - Lưu ý: chạy script tạo cột bangay và mở rộng độ dài
+
 ##### [Treat4.2023.12.19v1](https://gofile.me/78TQg/D1zLOnf48)
 - [#203](https://github.com/dh-hos/To_Lap_Trinh/issues/203)
 - <b>Yêu cầu: </b>Hỗ trợ chức năng tách phiếu thu CLS nội bộ #203
