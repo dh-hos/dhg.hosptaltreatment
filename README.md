@@ -4,6 +4,18 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.21v1](https://gofile.me/78TQg/Tn37VekLj)
+- [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
+- <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
+   - Lưu ý: chạy script tạo cột bangay
+   - Thay đổi màu trên danh sách điều trị
+     ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/dc5f82e2-8dde-4be4-a919-3413a47b472a)
+
+   - Bộ lọc trên sổ:
+        - Xuất viện, chuyển viện, trốn viện, tử vong, theo dõi
+          ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/74edcd78-b244-4f5c-8f4d-c9a4a169abba)
+
+
 ##### [Treat4.2023.12.20v2](https://gofile.me/78TQg/NfgoKIEsr)
 - [#179](https://github.com/dh-hos/dhg.hosptaltreatment/issues/179)
 - <b>Lỗi: </b>Không cho nhập số con còn sống có độ dài > 1 #179
