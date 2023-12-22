@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.22v1](https://gofile.me/78TQg/JvQJXQCSg)
+- [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
+- <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
+  
 ##### [Treat4.2023.12.21v1](https://gofile.me/78TQg/Tn37VekLj)
 - [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
 - <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
