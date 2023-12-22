@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.22v3](https://gofile.me/78TQg/WDIKbhJFE)
+- [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
+- <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
+    - Fix load nhập viện từ ngoại trú
+
 ##### [Treat4.2023.12.22v2](https://gofile.me/78TQg/9057McL6E)
 - [#180](https://github.com/dh-hos/dhg.hosptaltreatment/issues/180)
 - <b>Lỗi: </b>Không cập nhật được giá khi chuyển giá. #180
