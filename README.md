@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.25v1](https://gofile.me/78TQg/Sf1uXIRby)
+- [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
+- <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
+    - Fix load nhập viện từ ngoại trú (check cả tháng)
+      
 ##### [Treat4.2023.12.22v3](https://gofile.me/78TQg/WDIKbhJFE)
 - [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
 - <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
