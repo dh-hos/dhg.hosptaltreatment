@@ -4,6 +4,16 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.26v2](https://gofile.me/78TQg/8647oiyVh)
+- [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
+- <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
+    - Bổ sung check cho phép điều chỉnh trạng thái của bệnh án
+      ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/9442282b-a706-4dc8-ab74-95e1146cfd79)
+- [#203](https://github.com/dh-hos/To_Lap_Trinh/issues/203)
+- <b>Yêu cầu: </b>Hỗ trợ chức năng tách phiếu thu CLS nội bộ #203
+   - Bổ sung para mabn
+
+
 ##### [Treat4.2023.12.25v1](https://gofile.me/78TQg/Sf1uXIRby)
 - [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
 - <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
