@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.28v3](https://gofile.me/78TQg/hmNEyJtvC)
+- [#184](https://github.com/dh-hos/dhg.hosptaltreatment/issues/184)
+- <b>Lỗi: </b>Chỉnh ngày ra viện không kiểm soát được chi phí trong thời gian điều trị. #184
+  
 ##### [Treat4.2023.12.28v2](https://gofile.me/78TQg/xO4U4a5qZ)
 - [#183](https://github.com/dh-hos/dhg.hosptaltreatment/issues/183)
 - <b>Lỗi: </b>Load toa mẫu - toa VTYT kèm theo (BV Thốt Nốt) #183
