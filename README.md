@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.28v1](https://gofile.me/78TQg/UOqeckGK4)
+- [#205](https://github.com/dh-hos/To_Lap_Trinh/issues/205)
+- <b>Yêu cầu: </b>Lập phiếu chuyển viện tuyến dưới hỗ trợ điều trị lao #205
+  ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/92500290-cca8-49d5-b8d4-30b89aaad5c2)
+
+
 ##### [Treat4.2023.12.27v2](https://gofile.me/78TQg/oHuDteK7B)
 - [#181](https://github.com/dh-hos/dhg.hosptaltreatment/issues/181)
 - <b>Lỗi: </b>Sai mức hưởng trên phiếu 6556
