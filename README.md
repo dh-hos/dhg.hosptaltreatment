@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2023.12.28v2](https://gofile.me/78TQg/xO4U4a5qZ)
+- [#183](https://github.com/dh-hos/dhg.hosptaltreatment/issues/183)
+- <b>Lỗi: </b>Load toa mẫu - toa VTYT kèm theo (BV Thốt Nốt) #183
+  
 ##### [Treat4.2023.12.28v1](https://gofile.me/78TQg/UOqeckGK4)
 - [#205](https://github.com/dh-hos/To_Lap_Trinh/issues/205)
 - <b>Yêu cầu: </b>Lập phiếu chuyển viện tuyến dưới hỗ trợ điều trị lao #205
