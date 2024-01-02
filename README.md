@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.02v1](https://gofile.me/78TQg/0430lCn3T)
+- [#205](https://github.com/dh-hos/To_Lap_Trinh/issues/205)
+- <b>Yêu cầu: </b>Lập phiếu chuyển viện tuyến dưới hỗ trợ điều trị lao #205
+
 ##### [Treat4.2023.12.28v3](https://gofile.me/78TQg/hmNEyJtvC)
 - [#184](https://github.com/dh-hos/dhg.hosptaltreatment/issues/184)
 - <b>Lỗi: </b>Chỉnh ngày ra viện không kiểm soát được chi phí trong thời gian điều trị. #184
