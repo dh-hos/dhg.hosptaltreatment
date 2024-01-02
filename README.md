@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.02v2](https://gofile.me/78TQg/FdBUHICj5)
+- [#185](https://github.com/dh-hos/dhg.hosptaltreatment/issues/187)
+- <b>Lỗi: </b>Miễn cùng chi trả chi phí ngoài thời gian được miễn chi trả #187
+- Thực hiện thao tác chỉnh đối tượng để cập nhật
+
 ##### [Treat4.2024.01.02v1](https://gofile.me/78TQg/0430lCn3T)
 - [#205](https://github.com/dh-hos/To_Lap_Trinh/issues/205)
 - <b>Yêu cầu: </b>Lập phiếu chuyển viện tuyến dưới hỗ trợ điều trị lao #205
