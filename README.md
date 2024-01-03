@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.03v4](https://gofile.me/78TQg/2IIB6c46T)
+- [#188](https://github.com/dh-hos/dhg.hosptaltreatment/issues/188)
+- <b>Lỗi: </b>Toa thuốc tủ trực, chỉ định cls (BV Thốt Nốt) #188
+  
 ##### [Treat4.2024.01.03v3](https://gofile.me/78TQg/qSKbMI8rP)
 - [#190](https://github.com/dh-hos/dhg.hosptaltreatment/issues/190)
 - <b>Lỗi: </b>Giấy chứng sinh lỗi khi ngày sinh và ngày lập giấy chứng sinh khác tháng-năm kế toán #190
