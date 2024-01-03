@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.03v2](https://gofile.me/78TQg/Rr0dVsLZG)
+- [#189](https://github.com/dh-hos/dhg.hosptaltreatment/issues/189)
+- <b>Lỗi: </b>Lấy lại toa sai kho cấp phát thuốc khi check lấy tủ trực nhà thuốc #189
+
 ##### [Treat4.2024.01.03v1](https://gofile.me/78TQg/CRLm8Amxa)
 - [#205](https://github.com/dh-hos/To_Lap_Trinh/issues/205)
 - <b>Yêu cầu: </b>Lập phiếu chuyển viện tuyến dưới hỗ trợ điều trị lao #205
