@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.03v3](https://gofile.me/78TQg/qSKbMI8rP)
+- [#190](https://github.com/dh-hos/dhg.hosptaltreatment/issues/190)
+- <b>Lỗi: </b>Giấy chứng sinh lỗi khi ngày sinh và ngày lập giấy chứng sinh khác tháng-năm kế toán #190
+  
 ##### [Treat4.2024.01.03v2](https://gofile.me/78TQg/Rr0dVsLZG)
 - [#189](https://github.com/dh-hos/dhg.hosptaltreatment/issues/189)
 - <b>Lỗi: </b>Lấy lại toa sai kho cấp phát thuốc khi check lấy tủ trực nhà thuốc #189
