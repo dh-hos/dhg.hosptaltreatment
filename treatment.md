@@ -1,4 +1,4 @@
-Cập nhật <b>Treat4.2024.01.03v4 </b>- vào chi tiết để tải bản cập nhật
+Cập nhật <b>Treat4.2024.01.04v2 </b>- vào chi tiết để tải bản cập nhật
 
 <div align="left">
 
