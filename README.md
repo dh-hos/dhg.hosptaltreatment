@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.05v2](https://gofile.me/78TQg/I22gkLWgz)
+- [#216](https://github.com/dh-hos/To_Lap_Trinh/issues/216)
+- <b>Yêu cầu: </b>Bổ sung thêm thông tin khi lập phiếu Tình trạng dinh dưỡng. #216
+
 ##### [Treat4.2024.01.05v1](https://gofile.me/78TQg/oo4OHcA4a)
 - [#205](https://github.com/dh-hos/To_Lap_Trinh/issues/205)
 - <b>Yêu cầu: </b>Lập phiếu chuyển viện tuyến dưới hỗ trợ điều trị lao #205
