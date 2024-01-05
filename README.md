@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.05v1](https://gofile.me/78TQg/oo4OHcA4a)
+- [#205](https://github.com/dh-hos/To_Lap_Trinh/issues/205)
+- <b>Yêu cầu: </b>Lập phiếu chuyển viện tuyến dưới hỗ trợ điều trị lao #205
+     - Nút chuyển viện lao không phụ thuộc vào xử trí
+
 ##### [Treat4.2024.01.04v2](https://gofile.me/78TQg/PvnKMwNF8)
 - [#188](https://github.com/dh-hos/dhg.hosptaltreatment/issues/188)
 - <b>Lỗi: </b>Toa thuốc tủ trực, chỉ định cls (BV Thốt Nốt) #188
