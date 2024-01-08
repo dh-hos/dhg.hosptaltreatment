@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.08v1](https://gofile.me/78TQg/n5kXBjIVH)
+- [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
+- <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
+     - Trang bìa chưa đúng theo yêu cầu
+
+  
 ##### [Treat4.2024.01.05v2](https://gofile.me/78TQg/I22gkLWgz)
 - [#216](https://github.com/dh-hos/To_Lap_Trinh/issues/216)
 - <b>Yêu cầu: </b>Bổ sung thêm thông tin khi lập phiếu Tình trạng dinh dưỡng. #216
