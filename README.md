@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.10v1](https://gofile.me/78TQg/LrDDSSx0s)
+- [#185](https://github.com/dh-hos/dhg.hosptaltreatment/issues/185)
+- <b>Lỗi: </b>Trình tự TT/PT quá dài phiếu Phẫu thuật không hiển thị hết nội dung
+
 ##### [Treat4.2024.01.08v1](https://gofile.me/78TQg/n5kXBjIVH)
 - [#201](https://github.com/dh-hos/To_Lap_Trinh/issues/201)
 - <b>Yêu cầu: </b>Mô tả thực hiện quản lý bệnh án ngày #201
