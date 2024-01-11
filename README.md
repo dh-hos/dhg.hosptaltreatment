@@ -4,7 +4,7 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.01.11v1](https://gofile.me/78TQg/JLhLxuEPV)
+##### [Treat4.2024.01.11v2](https://gofile.me/78TQg/P5W0P4s2w)
 - [#190](https://github.com/dh-hos/To_Lap_Trinh/issues/190)
 - <b>Yêu cầu: </b>Mở chức năng ra toa nhiều tủ trực #190
 - - [#Mô tả thay đổi cách ghi dữ liệu](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Vuong-mo%20ta%20thuc%20hien%20tu%20truc%20vat%20tu%20ver2.md)
