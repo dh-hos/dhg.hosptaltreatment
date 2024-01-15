@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.15v1](https://gofile.me/78TQg/1JCh6PLNP)
+- [#203](https://github.com/dh-hos/To_Lap_Trinh/issues/203)
+- <b>Yêu cầu: </b>Hỗ trợ chức năng tách phiếu thu CLS nội bộ #203
+  
+      - Hiển thị chi phí nội bộ lên form
+
 ##### [Treat4.2024.01.11v2](https://gofile.me/78TQg/P5W0P4s2w)
 - [#190](https://github.com/dh-hos/To_Lap_Trinh/issues/190)
 - <b>Yêu cầu: </b>Mở chức năng ra toa nhiều tủ trực #190
