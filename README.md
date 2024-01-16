@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.16v1](https://gofile.me/78TQg/t1NFcF9yb)
+- [#192](https://github.com/dh-hos/dhg.hosptaltreatment/issues/192)
+- <b>Lỗi: </b>Hiển thị sai năm sinh của BN #192
+  
+      - Hiển thị năm sinh (nếu bn chỉ có năm sinh), ngược lại hiển thị ngày/tháng/năm sinh
+  
 ##### [Treat4.2024.01.15v1](https://gofile.me/78TQg/1JCh6PLNP)
 - [#203](https://github.com/dh-hos/To_Lap_Trinh/issues/203)
 - <b>Yêu cầu: </b>Hỗ trợ chức năng tách phiếu thu CLS nội bộ #203
