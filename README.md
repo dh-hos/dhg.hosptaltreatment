@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.17v1](https://gofile.me/78TQg/V7sMGkMmg)
+- [#193](https://github.com/dh-hos/dhg.hosptaltreatment/issues/193)
+- <b>Fix Lỗi: </b>Chỉnh thông tin bệnh nhân ghi nhận sai lý do vào viện (BV Phụ Sản) #193
+
 ##### [Treat4.2024.01.16v1](https://gofile.me/78TQg/t1NFcF9yb)
 - [#192](https://github.com/dh-hos/dhg.hosptaltreatment/issues/192)
 - <b>Lỗi: </b>Hiển thị sai năm sinh của BN #192
