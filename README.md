@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.17v2](https://gofile.me/78TQg/XcW4fdUdP)
+- [#194](https://github.com/dh-hos/dhg.hosptaltreatment/issues/194)
+- <b>Fix Lỗi: </b>CThông tin trạng thái vào viện giữa các Form không đồng bộ (BV Phụ Sản) #194
+  
 ##### [Treat4.2024.01.17v1](https://gofile.me/78TQg/V7sMGkMmg)
 - [#193](https://github.com/dh-hos/dhg.hosptaltreatment/issues/193)
 - <b>Fix Lỗi: </b>Chỉnh thông tin bệnh nhân ghi nhận sai lý do vào viện (BV Phụ Sản) #193
