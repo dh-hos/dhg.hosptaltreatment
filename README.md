@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.18v1](https://gofile.me/78TQg/nRqiKwvTS)
+- [#195](https://github.com/dh-hos/dhg.hosptaltreatment/issues/195)
+- <b>Fix Lỗi: </b>Lỗi chỉnh đối tượng (BV Phụ Sản) #195
+     - Fix: hiển thị sai trạng thái trái tuyến/cùng tuyến
+
 ##### [Treat4.2024.01.17v3](https://gofile.me/78TQg/t5Lsr6cQW)
 - [#195](https://github.com/dh-hos/dhg.hosptaltreatment/issues/195)
 - <b>Fix Lỗi: </b>Lỗi chỉnh đối tượng (BV Phụ Sản) #195
