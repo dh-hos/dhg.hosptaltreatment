@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.22v1](https://gofile.me/78TQg/yJfYLAXJT)
+- [#198](https://github.com/dh-hos/dhg.hosptaltreatment/issues/198)
+- <b>Fix Lỗi: </b>Sai mức hưởng đối với bệnh nội trú có nhập thẻ 2 (BV Tim Mạch AG)
+
+
 ##### [Treat4.2024.01.18v1](https://gofile.me/78TQg/nRqiKwvTS)
 - [#195](https://github.com/dh-hos/dhg.hosptaltreatment/issues/195)
 - <b>Fix Lỗi: </b>Lỗi chỉnh đối tượng (BV Phụ Sản) #195
