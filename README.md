@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.23v1](https://gofile.me/78TQg/rvnPX12wm)
+- [#197](https://github.com/dh-hos/dhg.hosptaltreatment/issues/197)
+- <b>Fix Lỗi: </b>Trang in phiếu đánh giá dưỡng không hiển thị được chiều cao. #197
+
 ##### [Treat4.2024.01.22v1](https://gofile.me/78TQg/yJfYLAXJT)
 - [#198](https://github.com/dh-hos/dhg.hosptaltreatment/issues/198)
 - <b>Fix Lỗi: </b>Sai mức hưởng đối với bệnh nội trú có nhập thẻ 2 (BV Tim Mạch AG)
