@@ -4,7 +4,7 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.01.26v1](https://gofile.me/78TQg/6LsyzNRx4)
+##### [Treat4.2024.01.26v3](https://gofile.me/78TQg/gMQkmQn0t)
 - [#22](https://github.com/dh-hos/To_Lap_Trinh/issues/22)
 - <b>Yêu cầu: </b>Bộ CLS mặc định số lượng #22
   
