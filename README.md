@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.26v1](https://gofile.me/78TQg/6LsyzNRx4)
+- [#22](https://github.com/dh-hos/To_Lap_Trinh/issues/22)
+- <b>Yêu cầu: </b>Bộ CLS mặc định số lượng #22
+  
+ <b>P/s: chạy script hỗ trợ</b>
+  
 ##### [Treat4.2024.01.23v1](https://gofile.me/78TQg/rvnPX12wm)
 - [#197](https://github.com/dh-hos/dhg.hosptaltreatment/issues/197)
 - <b>Fix Lỗi: </b>Trang in phiếu đánh giá dưỡng không hiển thị được chiều cao. #197
