@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.01.31v1](https://gofile.me/78TQg/cX4iaGcFN)
+- [#199](https://github.com/dh-hos/dhg.hosptaltreatment/issues/199)
+- <b>Fix Lỗi: </b>Chỉnh trạng thái cấp cứu -> Bình thường phần mềm ghi nhận sai lý do vào viện của bệnh nhân (BV phụ sản) #199
+       
 ##### [Treat4.2024.01.26v4](https://gofile.me/78TQg/ljAetvcMh)
 - [#195](https://github.com/dh-hos/dhg.hosptaltreatment/issues/195)
 - <b>Fix Lỗi: </b>Lỗi chỉnh đối tượng (BV Phụ Sản) #195
