@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.02.01v1](https://gofile.me/78TQg/vKkGxhxTD)
+- [#200](https://github.com/dh-hos/dhg.hosptaltreatment/issues/200)
+- <b>Fix Lỗi: </b>Toa tủ trực cũ không check "Lấy tại tủ trực cấp" sau khi cập nhật cấu trúc và Treatment mới #200
+  
 ##### [Treat4.2024.01.31v1](https://gofile.me/78TQg/cX4iaGcFN)
 - [#199](https://github.com/dh-hos/dhg.hosptaltreatment/issues/199)
 - <b>Fix Lỗi: </b>Chỉnh trạng thái cấp cứu -> Bình thường phần mềm ghi nhận sai lý do vào viện của bệnh nhân (BV phụ sản) #199
