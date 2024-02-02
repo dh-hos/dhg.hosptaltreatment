@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.02.02v1](https://gofile.me/78TQg/DvuvczBwJ)
+- [#239](https://github.com/dh-hos/To_Lap_Trinh/issues/239)
+- <b>Yêu cầu: </b>Bổ sung mã bệnh viện mới. #239
+
 ##### [Treat4.2024.02.01v1](https://gofile.me/78TQg/vKkGxhxTD)
 - [#200](https://github.com/dh-hos/dhg.hosptaltreatment/issues/200)
 - <b>Fix Lỗi: </b>Toa tủ trực cũ không check "Lấy tại tủ trực cấp" sau khi cập nhật cấu trúc và Treatment mới #200
