@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.02.06v1](https://gofile.me/78TQg/7lqfLzLQa)
+- [#157](https://github.com/dh-hos/dhg.hospitalfees/issues/157)
+- <b>Fix lỗi: </b>Báo cáo chi tiết theo dịch vụ không tách chi phí dịch vụ sang tab hóa đơn (BV Phụ Sản CT) #157
+
 ##### [Treat4.2024.02.02v1](https://gofile.me/78TQg/DvuvczBwJ)
 - [#239](https://github.com/dh-hos/To_Lap_Trinh/issues/239)
 - <b>Yêu cầu: </b>Bổ sung mã bệnh viện mới. #239
