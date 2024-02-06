@@ -7,6 +7,11 @@
 ##### [Treat4.2024.02.06v1](https://gofile.me/78TQg/7lqfLzLQa)
 - [#157](https://github.com/dh-hos/dhg.hospitalfees/issues/157)
 - <b>Fix lỗi: </b>Báo cáo chi tiết theo dịch vụ không tách chi phí dịch vụ sang tab hóa đơn (BV Phụ Sản CT) #157
+   - Các dịch vụ không có tiền chênh lệch nếu có check dịch vụ:
+   - Thực hiện thao tác bỏ check và check lại dịch vụ:
+     ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/ccfcbe7c-cbe0-4854-935d-d59ca9635730)
+
+  
 
 ##### [Treat4.2024.02.02v1](https://gofile.me/78TQg/DvuvczBwJ)
 - [#239](https://github.com/dh-hos/To_Lap_Trinh/issues/239)
