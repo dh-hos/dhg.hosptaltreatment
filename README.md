@@ -4,7 +4,7 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.02.06v2](https://gofile.me/78TQg/N6lurK0XJ)
+##### [Treat4.2024.02.06v4](https://gofile.me/78TQg/xze60sqE9)
 - [#157](https://github.com/dh-hos/dhg.hospitalfees/issues/157)
 - <b>Fix lỗi: </b>Báo cáo chi tiết theo dịch vụ không tách chi phí dịch vụ sang tab hóa đơn (BV Phụ Sản CT) #157
    - Khóa cột: chenhlech, thanhtien
