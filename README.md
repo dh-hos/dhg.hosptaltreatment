@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.02.08v1](https://gofile.me/78TQg/3DBoyTBS1)
+- [#201](https://github.com/dh-hos/dhg.hosptaltreatment/issues/201)
+- <b>Fix lỗi: </b>Chỉnh thông tin bệnh nhân nội trú (BV Đặng Thùy Trâm) #201
+     
 ##### [Treat4.2024.02.06v4](https://gofile.me/78TQg/xze60sqE9)
 - [#157](https://github.com/dh-hos/dhg.hospitalfees/issues/157)
 - <b>Fix lỗi: </b>Báo cáo chi tiết theo dịch vụ không tách chi phí dịch vụ sang tab hóa đơn (BV Phụ Sản CT) #157
