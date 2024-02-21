@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.02.21v1](https://gofile.me/78TQg/jaXZtmFP7)
+- [#202](https://github.com/dh-hos/dhg.hosptaltreatment/issues/202)
+- <b>Fix lỗi: </b>Chưa nhập thông tin cần thiết nhưng vẫn lưu được phiếu đánh giá dinh dưỡng. #202
+
 ##### [Treat4.2024.02.08v1](https://gofile.me/78TQg/3DBoyTBS1)
 - [#201](https://github.com/dh-hos/dhg.hosptaltreatment/issues/201)
 - <b>Fix lỗi: </b>Chỉnh thông tin bệnh nhân nội trú (BV Đặng Thùy Trâm) #201
