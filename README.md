@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.02.21v2](https://gofile.me/78TQg/LA21eMaXT)
+- [#243](https://github.com/dh-hos/To_Lap_Trinh/issues/243)
+- <b>Yêu cầu: </b>Group các dòng chi phí đối với bảng kê chi phí nội bộ (BV Phụ Sản)
+
 ##### [Treat4.2024.02.21v1](https://gofile.me/78TQg/jaXZtmFP7)
 - [#202](https://github.com/dh-hos/dhg.hosptaltreatment/issues/202)
 - <b>Fix lỗi: </b>Chưa nhập thông tin cần thiết nhưng vẫn lưu được phiếu đánh giá dinh dưỡng. #202
