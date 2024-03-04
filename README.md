@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.04v1](https://gofile.me/78TQg/y0mrx8dcV)
+- [#204](https://github.com/dh-hos/dhg.hosptaltreatment/issues/204)
+- <b>Fix lỗi: </b>Toa thuốc nhà thuốc không thể hiện tuổi bệnh nhân #204
+  
 ##### [Treat4.2024.02.21v2](https://gofile.me/78TQg/LA21eMaXT)
 - [#243](https://github.com/dh-hos/To_Lap_Trinh/issues/243)
 - <b>Yêu cầu: </b>Group các dòng chi phí đối với bảng kê chi phí nội bộ (BV Phụ Sản)
