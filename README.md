@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.05v1](https://gofile.me/78TQg/2B13ZGqsC)
+- [#206](https://github.com/dh-hos/dhg.hosptaltreatment/issues/206)
+- <b>Fix: </b>Không nhập được mã thẻ tạm thông tin con #206
+    - Module cũ: sau khi nhập giấy CS hoặc không --> đóng/mở mã thẻ để nhập
+    - Fix: bỏ qua bước trên --> mở mã thẻ để nhập
+  
 ##### [Treat4.2024.03.04v1](https://gofile.me/78TQg/y0mrx8dcV)
 - [#204](https://github.com/dh-hos/dhg.hosptaltreatment/issues/204)
 - <b>Fix lỗi: </b>Toa thuốc nhà thuốc không thể hiện tuổi bệnh nhân #204
