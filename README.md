@@ -4,6 +4,16 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.06v1](https://gofile.me/78TQg/xhztM2vnI)
+- [#207](https://github.com/dh-hos/dhg.hosptaltreatment/issues/207)
+- <b>Fix: </b>Sai chi phí BNCCT khi không nhập ngày kết thúc miễn chi trả #207
+    - Khi không nhập ngày kết thúc miễn thì phần mềm tự hiển thị ngày 3/1/2013
+      ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/8609030f-c84d-4ea7-b4ae-456c16c14264)
+
+    - Phần mềm không tính đúng chi phí BNCCT ( ví dụ: bệnh nhân có chi phí CLS GI20 trong thời gian miễn chi trả không được tính miễn như trong mô tả - không có ngày kết thúc miễn thì được miễn hết từ ngày miễn chi trả)
+      ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/943243ba-35c1-4339-9d11-983fd868cf1b)
+
+
 ##### [Treat4.2024.03.05v1](https://gofile.me/78TQg/2B13ZGqsC)
 - [#206](https://github.com/dh-hos/dhg.hosptaltreatment/issues/206)
 - <b>Fix: </b>Không nhập được mã thẻ tạm thông tin con #206
