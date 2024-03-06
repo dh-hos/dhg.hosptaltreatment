@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.06v3](https://gofile.me/78TQg/fwyApowbd)
+- [#209](https://github.com/dh-hos/dhg.hosptaltreatment/issues/209)
+- <b>Fix: </b>QT điều trị không cấn trừ thuốc đã trả #209
+- [#212](https://github.com/dh-hos/dhg.hosptaltreatment/issues/212)
+- <b>Fix: </b>Treatment Phiếu hẹn tái khám lý do vào viện trái tuyến nhưng phiếu hẹn lại check cùng tuyến #212
+
 ##### [Treat4.2024.03.06v2](https://gofile.me/78TQg/X8P7mDwfV)
 - [#211](https://github.com/dh-hos/dhg.hosptaltreatment/issues/211)
 - <b>Fix: </b>Load lại thông tin cân nặng cũ khi lập phiếu đánh giá dinh dưỡng. #211
