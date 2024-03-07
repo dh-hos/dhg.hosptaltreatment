@@ -4,12 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.03.07v1]()
+##### [Treat4.2024.03.07v1](https://gofile.me/78TQg/usubzRaMu)
 - [#209](https://github.com/dh-hos/dhg.hosptaltreatment/issues/209)
 - <b>Fix: </b>QT điều trị không cấn trừ thuốc đã trả #209
      - Tờ điều trị sắp xếp tăng dần theo thời gian cho diễn biến
      - Chỉ cấn trừ thuốc khi trong cùng một diễn biến
      - Dấu trừ (-) thể hiện số lượng trả (dễ nhận biết)
+     - Fix: chỉnh đối tượng: thông tuyến, trái tuyến được hưởng cùng tuyến
 
 ##### [Treat4.2024.03.06v3](https://gofile.me/78TQg/fwyApowbd)
 - [#209](https://github.com/dh-hos/dhg.hosptaltreatment/issues/209)
