@@ -4,7 +4,7 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.03.07v1](https://gofile.me/78TQg/usubzRaMu)
+##### [Treat4.2024.03.07v2](https://gofile.me/78TQg/TEkqQ0Zc7)
 - [#209](https://github.com/dh-hos/dhg.hosptaltreatment/issues/209)
 - <b>Fix: </b>QT điều trị không cấn trừ thuốc đã trả #209
      - Tờ điều trị sắp xếp tăng dần theo thời gian cho diễn biến
