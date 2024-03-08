@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.08v1](https://gofile.me/78TQg/mnBQpuOJv)
+- [#213](https://github.com/dh-hos/dhg.hosptaltreatment/issues/213)
+- <b>Fix: </b>Không mở lên được form đánh giá dinh dưỡng #213
+
 ##### [Treat4.2024.03.07v2](https://gofile.me/78TQg/TEkqQ0Zc7)
 - [#209](https://github.com/dh-hos/dhg.hosptaltreatment/issues/209)
 - <b>Fix: </b>QT điều trị không cấn trừ thuốc đã trả #209
