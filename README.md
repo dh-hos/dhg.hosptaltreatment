@@ -4,6 +4,27 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.08v2](https://gofile.me/78TQg/E1PrdSriV)
+- [#210](https://github.com/dh-hos/dhg.hosptaltreatment/issues/210)
+- <b>Yêu cầu: </b>Bổ sung phiếu phục hồi chức năng #210
+     - Chạy script bổ sung (xem mô tả)
+     - Lập phiếu PT/TT
+       ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/d37f6d53-dc16-46ea-8980-af2dfcfd6be6)
+
+     - Lập phiếu PHCN (chỉ load những CLS đã lập phiếu PT-TT và có Ê kíp)
+       ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/abb82f52-1495-4337-b9d1-cebbe88134ef)
+     - Chỉnh: cập thêm giá trị phút và mô tả
+     - In: chỉ in những CLS nào có cập nhật số phút
+       ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/12846d5a-f16e-411b-b0f5-340dbc2849f5)
+
+       P/s:
+       - ngày = ngày bắt đầu phẫu thuật/ thủ thuật
+       - bs thực hiện = bs trong êkip
+       
+
+       
+       
+  
 ##### [Treat4.2024.03.08v1](https://gofile.me/78TQg/mnBQpuOJv)
 - [#213](https://github.com/dh-hos/dhg.hosptaltreatment/issues/213)
 - <b>Fix: </b>Không mở lên được form đánh giá dinh dưỡng #213
