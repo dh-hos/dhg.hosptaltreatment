@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.12v1](https://gofile.me/78TQg/OfuL2KsGQ)
+- [#214](https://github.com/dh-hos/dhg.hosptaltreatment/issues/214)
+- <b>Fix lỗi: </b>Chỉnh đối tượng không được. #214
+
 ##### [Treat4.2024.03.08v2](https://gofile.me/78TQg/E1PrdSriV)
 - [#210](https://github.com/dh-hos/dhg.hosptaltreatment/issues/210)
 - <b>Yêu cầu: </b>Bổ sung phiếu phục hồi chức năng #210
