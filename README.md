@@ -7,7 +7,7 @@
 ##### [Treat4.2024.03.13v1]()
 - [#275](https://github.com/dh-hos/To_Lap_Trinh/issues/275)
 - <b>Cập nhật yêu cầu: </b> Hỗ trợ người dùng kiểm tra tiền giường theo ngày điều trị. #275
-- <b>Nội dung cập nhật: </b>
+- <b>Hỗ trợ tính năng kiểm tra trên form ra viện : </b>
      - <b>Cách tính số ngày giường BHYT: </b>
           - SUM(chidinhcls.soluong), thỏa điều kiện:
           - dmcls.kho = 'GB'
