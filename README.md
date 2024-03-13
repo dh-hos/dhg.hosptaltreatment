@@ -8,6 +8,7 @@
 - [#275](https://github.com/dh-hos/To_Lap_Trinh/issues/275)
 - <b>Cập nhật yêu cầu: </b> Hỗ trợ người dùng kiểm tra tiền giường theo ngày điều trị. #275
 - <b>Hỗ trợ tính năng kiểm tra trên form ra viện : </b>
+     - Bổ sung 4 textbox hiển thị thông tin: dmketqua.cong, dmxutri.com, số lượng giường bệnh BHYT và số ngày điều trị theo TT22
      - <b>Cách tính số ngày giường BHYT: </b>
           - SUM(chidinhcls.soluong), thỏa điều kiện:
           - dmcls.kho = 'GB'
