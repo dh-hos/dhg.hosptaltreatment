@@ -4,9 +4,27 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.13v1]()
+- [#275](https://github.com/dh-hos/To_Lap_Trinh/issues/275)
+- <b>Cập nhật yêu cầu: </b> Hỗ trợ người dùng kiểm tra tiền giường theo ngày điều trị. #275
+- <b>Nội dung cập nhật: </b>
+     - <b>Cách tính số ngày giường BHYT: </b>
+          - SUM(chidinhcls.soluong), thỏa điều kiện:
+          - dmcls.kho = 'GB'
+          - chidinhcls.bhyt = 1
+          - dmdoituong.bhyt = 1 hoặc 2
+     - <b>Tóm tắt cách tính số này điều trị theo TT22 và điều kiện cộng 1 ngày: </b>
+          - Songngay_congthem = 1 KHI: dmxutri.cong = 1 và dmketqua.cong = 1 ngược lại = 0
+          - Số giờ điều trị <= 4 giờ: ngaydt = 0
+          - Số giờ điều trị > 4 giờ và <=24 giờ: ngaydt = 1
+          - Ngược lại ngaydt = ngày ra - ngày vào + songay_congthem
+          ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/1fd802ba-5db7-4718-8931-b4f1585ba6f9)
+
+
 ##### [Treat4.2024.03.12v1](https://gofile.me/78TQg/OfuL2KsGQ)
 - [#214](https://github.com/dh-hos/dhg.hosptaltreatment/issues/214)
 - <b>Fix lỗi: </b>Chỉnh đối tượng không được. #214
+
 
 ##### [Treat4.2024.03.08v2](https://gofile.me/78TQg/E1PrdSriV)
 - [#210](https://github.com/dh-hos/dhg.hosptaltreatment/issues/210)
