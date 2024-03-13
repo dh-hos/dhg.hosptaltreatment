@@ -4,7 +4,7 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.03.13v1]()
+##### [Treat4.2024.03.13v1](https://gofile.me/78TQg/paQRe2VTt)
 - [#275](https://github.com/dh-hos/To_Lap_Trinh/issues/275)
 - <b>Cập nhật yêu cầu: </b> Hỗ trợ người dùng kiểm tra tiền giường theo ngày điều trị. #275
 - <b>Hỗ trợ tính năng kiểm tra trên form ra viện : </b>
@@ -20,6 +20,8 @@
           - Số giờ điều trị > 4 giờ và <=24 giờ: ngaydt = 1
           - Ngược lại ngaydt = ngày ra - ngày vào + songay_congthem
           ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/1fd802ba-5db7-4718-8931-b4f1585ba6f9)
+
+          ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/5e196b59-5b5f-4d44-bf1e-ab4c1aeec29f)
 
 
 ##### [Treat4.2024.03.12v1](https://gofile.me/78TQg/OfuL2KsGQ)
