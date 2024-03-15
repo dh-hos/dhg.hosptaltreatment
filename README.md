@@ -4,9 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.03.13v1](https://gofile.me/78TQg/paQRe2VTt)
+##### [Treat4.2024.03.15v1](https://gofile.me/78TQg/hGveC3OYn)
 - [#275](https://github.com/dh-hos/To_Lap_Trinh/issues/275)
 - <b>Cập nhật yêu cầu: </b> Hỗ trợ người dùng kiểm tra tiền giường theo ngày điều trị. #275
+- Fix lỗi không load thông tin cột 'cộng' khi bệnh nhân đã ra viện/ trả về điều trị
 - <b>Hỗ trợ tính năng kiểm tra trên form ra viện : </b>
      - Bổ sung 4 textbox hiển thị thông tin: dmketqua.cong, dmxutri.com, số lượng giường bệnh BHYT và số ngày điều trị theo TT22
      - <b>Cách tính số ngày giường BHYT: </b>
