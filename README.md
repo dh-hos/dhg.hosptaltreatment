@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.18v1](https://gofile.me/78TQg/5jbBlcQPw)
+- [#275](https://github.com/dh-hos/To_Lap_Trinh/issues/275)
+- <b>Cập nhật yêu cầu: </b> Hỗ trợ người dùng kiểm tra tiền giường theo ngày điều trị. #275
+- [#325](https://github.com/dh-hos/To_Lap_Trinh/issues/325)
+- <b>Cập nhật yêu cầu: </b> Đổi màu nút TT Thẻ BHYT số 2 #325
+
 ##### [Treat4.2024.03.15v1](https://gofile.me/78TQg/hGveC3OYn)
 - [#275](https://github.com/dh-hos/To_Lap_Trinh/issues/275)
 - <b>Cập nhật yêu cầu: </b> Hỗ trợ người dùng kiểm tra tiền giường theo ngày điều trị. #275
