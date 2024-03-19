@@ -4,7 +4,7 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.03.19v1]()
+##### [Treat4.2024.03.19v1](https://gofile.me/78TQg/MqtofhdJr)
 - [#323](https://github.com/dh-hos/To_Lap_Trinh/issues/323)
 - <b>Cập nhật yêu cầu: </b> Treatment hỗ trợ nút in tem bệnh án giống ngoại trú #323
 ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/cb8b7d36-7e5a-40ce-a9ed-c85e4ed42107)
