@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.21v1](https://gofile.me/78TQg/hh9TR1oCL)
+- [#275](https://github.com/dh-hos/To_Lap_Trinh/issues/275)
+- <b>Cập nhật yêu cầu: </b> Hỗ trợ người dùng kiểm tra tiền giường theo ngày điều trị. #275
+- Fix lỗi: khi chọn danh mục xử trí
+
 ##### [Treat4.2024.03.19v1](https://gofile.me/78TQg/MqtofhdJr)
 - [#323](https://github.com/dh-hos/To_Lap_Trinh/issues/323)
 - <b>Cập nhật yêu cầu: </b> Treatment hỗ trợ nút in tem bệnh án giống ngoại trú #323
