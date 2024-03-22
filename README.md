@@ -4,6 +4,64 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.22v1]()
+- [#324](https://github.com/dh-hos/To_Lap_Trinh/issues/324)
+- <b>Cập nhật yêu cầu: </b> CLS thường dùng cho nội trú theo khoa. #324
+- Cập nhật script:
+  
+
+      CREATE TABLE current.clskhoa (
+      macls VARCHAR(20) NOT NULL,
+      madv VARCHAR(20),
+      manv VARCHAR(20),
+      stt SERIAL,
+      CONSTRAINT clskhoa_fk FOREIGN KEY (macls)
+        REFERENCES current.dmcls(macls)
+        ON DELETE NO ACTION
+        ON UPDATE NO ACTION
+        NOT DEFERRABLE,
+      CONSTRAINT clskhoa_fk1 FOREIGN KEY (madv)
+        REFERENCES current.dmdonvi(madv)
+        ON DELETE NO ACTION
+        ON UPDATE CASCADE
+        NOT DEFERRABLE,
+      CONSTRAINT clskhoa_fk2 FOREIGN KEY (manv)
+        REFERENCES current.dmnhanvien(manv)
+        ON DELETE NO ACTION
+        ON UPDATE CASCADE
+        NOT DEFERRABLE
+    ) 
+    WITH (oids = false);
+    ALTER TABLE current.clskhoa
+      OWNER TO postgres;
+
+  
+  Hướng dẫn sử dụng:
+  - Cấu hình:
+     ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/5e71b29e-dd8d-4573-8f07-7bdd8020fcf3)
+
+  - Xác thực tài khoản trước khi cập nhật CLS thường dùng:
+ 
+    ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/27162536-3d1c-45c5-9815-fd08899518b3)
+
+
+         Thêm/bớt CLS thường dùng bằng các nút:
+         ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/55a1234e-8f1b-4293-b2eb-aacf4dd5f2e3)
+         > : thêm 1 cls
+         >> thêm tất cả cls
+         < : bớt một cls
+         <<: bớt tất cả cls
+    
+         Sau khi thêm / bớt: nhấn nút lưu để lưu lại thay đổi
+
+         Trêm form chỉ định CLS có thêm tùy chọn: Tất cả CLS / CLS theo khoa
+
+
+
+
+
+  
+
 ##### [Treat4.2024.03.21v1](https://gofile.me/78TQg/hh9TR1oCL)
 - [#275](https://github.com/dh-hos/To_Lap_Trinh/issues/275)
 - <b>Cập nhật yêu cầu: </b> Hỗ trợ người dùng kiểm tra tiền giường theo ngày điều trị. #275
