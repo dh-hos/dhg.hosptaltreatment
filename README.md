@@ -38,23 +38,24 @@
   
   Hướng dẫn sử dụng:
   - Cấu hình:
-     ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/5e71b29e-dd8d-4573-8f07-7bdd8020fcf3)
+   
+  ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/5e71b29e-dd8d-4573-8f07-7bdd8020fcf3)
 
   - Xác thực tài khoản trước khi cập nhật CLS thường dùng:
  
-    ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/27162536-3d1c-45c5-9815-fd08899518b3)
+  ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/27162536-3d1c-45c5-9815-fd08899518b3)
+
+Thêm/bớt CLS thường dùng bằng các nút:
 
 
-         Thêm/bớt CLS thường dùng bằng các nút:
-         ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/55a1234e-8f1b-4293-b2eb-aacf4dd5f2e3)
-         > : thêm 1 cls
-         >> thêm tất cả cls
-         < : bớt một cls
-         <<: bớt tất cả cls
-    
-         Sau khi thêm / bớt: nhấn nút lưu để lưu lại thay đổi
+Nút > thêm 1 cls
+Nút >> thêm tất cả cls
+Nút < bớt một cls
+Nút << bớt tất cả cls
 
-         Trêm form chỉ định CLS có thêm tùy chọn: Tất cả CLS / CLS theo khoa
+Sau khi thêm / bớt: nhấn nút lưu để lưu lại thay đổi
+
+Trêm form chỉ định CLS có thêm tùy chọn: Tất cả CLS / CLS theo khoa
 
 
 
