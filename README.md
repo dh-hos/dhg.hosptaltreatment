@@ -4,7 +4,7 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.03.25v1](https://gofile.me/78TQg/kWXfL0RUa)
+##### [Treat4.2024.03.25v1](https://gofile.me/78TQg/OqvsGVzyd)
 - [#324](https://github.com/dh-hos/To_Lap_Trinh/issues/324)
 - <b>Cập nhật yêu cầu: </b> CLS thường dùng cho nội trú theo khoa. #324
 - Fix lỗi: không load CLS con
