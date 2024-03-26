@@ -7,7 +7,7 @@
 ##### [Treat4.2024.03.26v2](https://gofile.me/78TQg/bjYFwoAt5)
 - [#215](https://github.com/dh-hos/dhg.hosptaltreatment/issues/215)
 - <b>Fix lỗi: </b> Phiếu chỉ định xét nghiệm không sắp xếp được cls theo số thứ tự đã cấu hình (BV Ung Bướu) #215
-- Fix lỗi phát sinh: bệnh nhân trái tuyến dược hưởng như cùng tuyến --> ghi nhận cùng tuyến
+- Fix lỗi phát sinh: bệnh nhân trái tuyến được hưởng như cùng tuyến --> ghi nhận cùng tuyến
 
 ##### [Treat4.2024.03.26v1](https://gofile.me/78TQg/J3PGQRFfF)
 - [#215](https://github.com/dh-hos/dhg.hosptaltreatment/issues/215)
