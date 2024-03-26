@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.26v1](https://gofile.me/78TQg/J3PGQRFfF)
+- [#215](https://github.com/dh-hos/dhg.hosptaltreatment/issues/215)
+- <b>Fix lỗi: </b> Phiếu chỉ định xét nghiệm không sắp xếp được cls theo số thứ tự đã cấu hình (BV Ung Bướu) #215
+
 ##### [Treat4.2024.03.25v1](https://gofile.me/78TQg/OqvsGVzyd)
 - [#324](https://github.com/dh-hos/To_Lap_Trinh/issues/324)
 - <b>Cập nhật yêu cầu: </b> CLS thường dùng cho nội trú theo khoa. #324
