@@ -4,6 +4,14 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.27v1](https://gofile.me/78TQg/xYjO4yyy3)
+- [#190](https://github.com/dh-hos/To_Lap_Trinh/issues/190)
+- <b>Yêu cầu: </b> Mở chức năng ra toa nhiều tủ trực #190
+- Bổ sung:
+    - Thêm tùy chọn tủ trực ở chức năng toa VTYT kèm theo
+    - ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/7e1adc06-578c-44ea-b371-ca073080d1e8)
+
+
 ##### [Treat4.2024.03.26v2](https://gofile.me/78TQg/bjYFwoAt5)
 - [#215](https://github.com/dh-hos/dhg.hosptaltreatment/issues/215)
 - <b>Fix lỗi: </b> Phiếu chỉ định xét nghiệm không sắp xếp được cls theo số thứ tự đã cấu hình (BV Ung Bướu) #215
