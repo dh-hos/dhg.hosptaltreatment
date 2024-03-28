@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.28v2](https://gofile.me/78TQg/MsMveyZe3)
+- [#216](https://github.com/dh-hos/dhg.hosptaltreatment/issues/216)
+- <b>Fix: </b> Test yêu cầu ra toa Vật tư kèm theo được chọn tủ trực Vật tư #216
+- Fix: không vào được form ra toa vật tư kèm theo khi bệnh nhân đã ra viện
+
 ##### [Treat4.2024.03.27v1](https://gofile.me/78TQg/xYjO4yyy3)
 - [#190](https://github.com/dh-hos/To_Lap_Trinh/issues/190)
 - <b>Yêu cầu: </b> Mở chức năng ra toa nhiều tủ trực #190
