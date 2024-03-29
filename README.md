@@ -4,6 +4,11 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.03.29v1](https://gofile.me/78TQg/zugnnJgdY)
+- [#216](https://github.com/dh-hos/dhg.hosptaltreatment/issues/216)
+- <b>Fix: </b> Test yêu cầu ra toa Vật tư kèm theo được chọn tủ trực Vật tư #216
+- Fix phiếu 6556: Bệnh nhân được chuyển viện nhưng bảng kê vẫn check vào thông tuyến. maba: 2024000002
+
 ##### [Treat4.2024.03.28v2](https://gofile.me/78TQg/MsMveyZe3)
 - [#216](https://github.com/dh-hos/dhg.hosptaltreatment/issues/216)
 - <b>Fix: </b> Test yêu cầu ra toa Vật tư kèm theo được chọn tủ trực Vật tư #216
