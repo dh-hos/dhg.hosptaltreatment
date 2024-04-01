@@ -4,6 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.04.01v1](https://gofile.me/78TQg/UT7G8WItU)
+- [#216](https://github.com/dh-hos/dhg.hosptaltreatment/issues/216)
+- <b>Fix: </b> Test yêu cầu ra toa Vật tư kèm theo được chọn tủ trực Vật tư #216
+- Fix: -->Bệnh có thẻ đăng ký ở trạm khi tự đi khám bệnh (không có giấy chuyển viện)
+    -> Treatment in bảng kê ra đúng tuyến hết.
+  
 ##### [Treat4.2024.03.29v1](https://gofile.me/78TQg/zugnnJgdY)
 - [#216](https://github.com/dh-hos/dhg.hosptaltreatment/issues/216)
 - <b>Fix: </b> Test yêu cầu ra toa Vật tư kèm theo được chọn tủ trực Vật tư #216
