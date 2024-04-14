@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.04.04v1](https://gofile.me/78TQg/8HcrKc00r)
+- [#350](https://github.com/dh-hos/To_Lap_Trinh/issues/350)
+- <b>Cập nhật: </b> 2.1 Treatment thực hiện xuất XML khi xuất viện #350
+  
 ##### [Treat4.2024.04.01v1](https://gofile.me/78TQg/UT7G8WItU)
 - [#216](https://github.com/dh-hos/dhg.hosptaltreatment/issues/216)
 - <b>Fix: </b> Test yêu cầu ra toa Vật tư kèm theo được chọn tủ trực Vật tư #216
