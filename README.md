@@ -4,7 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.04.04v1](https://gofile.me/78TQg/8HcrKc00r)
+##### [Treat4.2024.04.15v1](https://gofile.me/78TQg/YyQn5R3cN)
+- [#218](https://github.com/dh-hos/dhg.hosptaltreatment/issues/218)
+    - FIX LỖI: Số tuổi lúc khám vào viện bị sai khi chỉnh ngày sinh bệnh nhân #218 ==> thời điểm tính tuổi là ngày đăng ký
+- [#217](https://github.com/dh-hos/dhg.hosptaltreatment/issues/217)
+    - FIX LỖI: Nhập hạn dùng thẻ không phù nhưng vẫn cho lưu #217 ==> giới hạn năm (ngày bắt đầu hạn thẻ) tới năm sinh của bệnh nhân
+      
+##### [Treat4.2024.04.14v1](https://gofile.me/78TQg/8HcrKc00r)
 - [#350](https://github.com/dh-hos/To_Lap_Trinh/issues/350)
 - <b>Cập nhật: </b> 2.1 Treatment thực hiện xuất XML khi xuất viện #350
   
