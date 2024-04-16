@@ -8,7 +8,8 @@
 - [#218](https://github.com/dh-hos/dhg.hosptaltreatment/issues/218)
     - FIX LỖI: Số tuổi lúc khám vào viện bị sai khi chỉnh ngày sinh bệnh nhân #218 ==> thời điểm tính tuổi là ngày đăng ký
     - Ngày sinh = ngày đăng ký ==> ngày tuổi = 1
-    - Cảnh báo khi ngày sinh < ngày đăng đăng ký
+    - Cảnh báo khi ngày sinh > ngày đăng đăng ký
+    - Cảnh báo ngày sinh > ngày bắt đầu thẻ
 - [#217](https://github.com/dh-hos/dhg.hosptaltreatment/issues/217)
     - FIX LỖI: Nhập hạn dùng thẻ không phù nhưng vẫn cho lưu #217 ==> giới hạn năm (ngày bắt đầu hạn thẻ) tới năm sinh của bệnh nhân
     - Chỉnh lại cảnh báo cho phù hợp
