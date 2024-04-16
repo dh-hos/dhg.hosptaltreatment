@@ -4,6 +4,17 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.04.16v1](https://gofile.me/78TQg/9JX7h8FLq)
+- [#218](https://github.com/dh-hos/dhg.hosptaltreatment/issues/218)
+    - FIX LỖI: Số tuổi lúc khám vào viện bị sai khi chỉnh ngày sinh bệnh nhân #218 ==> thời điểm tính tuổi là ngày đăng ký
+    - Ngày sinh = ngày đăng ký ==> ngày tuổi = 1
+    - Cảnh báo khi ngày sinh < ngày đăng đăng ký
+- [#217](https://github.com/dh-hos/dhg.hosptaltreatment/issues/217)
+    - FIX LỖI: Nhập hạn dùng thẻ không phù nhưng vẫn cho lưu #217 ==> giới hạn năm (ngày bắt đầu hạn thẻ) tới năm sinh của bệnh nhân
+    - Chỉnh lại cảnh báo cho phù hợp
+- [#220](https://github.com/dh-hos/dhg.hosptaltreatment/issues/220)
+    - Fix lỗi : Treo trạng thái chuyển viện. #220
+      
 ##### [Treat4.2024.04.15v1](https://gofile.me/78TQg/YyQn5R3cN)
 - [#218](https://github.com/dh-hos/dhg.hosptaltreatment/issues/218)
     - FIX LỖI: Số tuổi lúc khám vào viện bị sai khi chỉnh ngày sinh bệnh nhân #218 ==> thời điểm tính tuổi là ngày đăng ký
