@@ -4,6 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.04.17v1](https://gofile.me/78TQg/M4qVue719)
+- [#218](https://github.com/dh-hos/dhg.hosptaltreatment/issues/218)
+    - FIX LỖI: Số tuổi lúc khám vào viện bị sai khi chỉnh ngày sinh bệnh nhân #218 ==> thời điểm tính tuổi là ngày đăng ký
+    - Fix lỗi thiếu chứ, lỗi phát sinh
+- [#221](https://github.com/dh-hos/dhg.hosptaltreatment/issues/221)
+    - FIX LỖI: LỖI KHÔNG TRẢ VỀ THANH BHYT KHI CHỈ ĐỊNH CLS CHECK THU PHÍ CHỈNH LẠI BỎ CHECK THU PHÍ #221
+      
 ##### [Treat4.2024.04.16v1](https://gofile.me/78TQg/9JX7h8FLq)
 - [#218](https://github.com/dh-hos/dhg.hosptaltreatment/issues/218)
     - FIX LỖI: Số tuổi lúc khám vào viện bị sai khi chỉnh ngày sinh bệnh nhân #218 ==> thời điểm tính tuổi là ngày đăng ký
