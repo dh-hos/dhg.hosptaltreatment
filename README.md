@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.04.19v1](https://gofile.me/78TQg/ZzKhpQKQU)
+- [#222](https://github.com/dh-hos/dhg.hosptaltreatment/issues/222)
+    - FIX LỖI: Hiển thị giờ trong Quá trình điều trị #222
+  
 ##### [Treat4.2024.04.17v1](https://gofile.me/78TQg/M4qVue719)
 - [#218](https://github.com/dh-hos/dhg.hosptaltreatment/issues/218)
     - FIX LỖI: Số tuổi lúc khám vào viện bị sai khi chỉnh ngày sinh bệnh nhân #218 ==> thời điểm tính tuổi là ngày đăng ký
