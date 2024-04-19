@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.04.19v2](https://gofile.me/78TQg/LsDZahPT0)
+- [#XML130](https://github.com/orgs/dh-hos/projects/23/views/1?pane=issue&itemId=59667690)
+    - Cập nhật dll lưu dữ liệu vào các bảng
+
 ##### [Treat4.2024.04.19v1](https://gofile.me/78TQg/ZzKhpQKQU)
 - [#222](https://github.com/dh-hos/dhg.hosptaltreatment/issues/222)
     - FIX LỖI: Hiển thị giờ trong Quá trình điều trị #222
