@@ -4,9 +4,13 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.04.30v1](https://gofile.me/78TQg/IFvwQhogW)
+- [#233](https://github.com/dh-hos/dhg.hosptaltreatment/issues/223)
+    - Cập nhật dll lưu dữ liệu vào các bảng
+
 ##### [Treat4.2024.04.19v2](https://gofile.me/78TQg/LsDZahPT0)
 - [#XML130](https://github.com/orgs/dh-hos/projects/23/views/1?pane=issue&itemId=59667690)
-    - Cập nhật dll lưu dữ liệu vào các bảng
+    - FIX LỖI: Hiển thị trên phiếu 01KCB không đúng cột [Khác] khi cận lâm sàng check lấy bộ và có Check miễn phí không thanh BHYT #223
 
 ##### [Treat4.2024.04.19v1](https://gofile.me/78TQg/ZzKhpQKQU)
 - [#222](https://github.com/dh-hos/dhg.hosptaltreatment/issues/222)
