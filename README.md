@@ -4,6 +4,10 @@
 </div>
 
 ## Nội dung cập nhật
+##### [Treat4.2024.05.08v1](https://gofile.me/78TQg/7YHbGUPxz)
+- [#224](https://github.com/dh-hos/dhg.hosptaltreatment/issues/224)
+    - FIX LỖI: Không xem được kết quả xét nghiệm sinh hóa máu (BV Thanh Bình) #224
+      
 ##### [Treat4.2024.05.02v1](https://gofile.me/78TQg/vJq39ve2S)
 - [#233](https://github.com/dh-hos/dhg.hosptaltreatment/issues/223)
     - FIX LỖI: Hiển thị trên phiếu 01KCB không đúng cột [Khác] khi cận lâm sàng check lấy bộ và có Check miễn phí không thanh BHYT #223
