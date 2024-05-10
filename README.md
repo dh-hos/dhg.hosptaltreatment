@@ -4,11 +4,12 @@
 </div>
 
 ## Nội dung cập nhật
-##### [Treat4.2024.05.10v1]()
+##### [Treat4.2024.05.10v1](https://gofile.me/78TQg/cETCJA5fT)
 - [#341](https://github.com/dh-hos/To_Lap_Trinh/issues/341)
       - YÊU CẦU: Treament cảnh báo chỉ định và chống chỉ định cận lâm sàng và thuốc giống ngoại trú #341
       ![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/21c21189-b117-43b8-bfb2-ad153d78d2b6)
-      Sau khi lưu: cập nhật lại maicdp, kqcdoanp (qtdieutri theo ID diễn biến và thông tin bệnh nhân, bnnoitru theo thông tin bệnh nhân)
+
+  Sau khi lưu: cập nhật lại maicdp, kqcdoanp (qtdieutri theo ID diễn biến và thông tin bệnh nhân, bnnoitru theo thông tin bệnh nhân)
 - [#225](https://github.com/dh-hos/dhg.hosptaltreatment/issues/225)
       - FIX LỖI: LỖI ĐỊNH DẠNG KHI LƯU DỮ LIỆU THAO TÁC KẾT THÚC BỆNH ÁN #225
 
