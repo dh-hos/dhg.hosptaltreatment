@@ -25,6 +25,7 @@ assignees: vuongdh
 -  ![mabvbh](https://img.shields.io/badge/Mã%20bệnh%20viện-:-blue?style=plastic&logo=github) `mabvbh`
 -  ![khach_hang](https://img.shields.io/badge/Bệnh%20viện-:-blue?style=plastic&logo=github) **khach_hang**
 -  ![ten_csdl](https://img.shields.io/badge/Tên%20cơ%20sở%20dữ%20liệu-:-blue?style=plastic&logo=github) `ten_csdl`
+-  ![port_csdl](https://img.shields.io/badge/Port%20cơ%20sở%20dữ%20liệu-:-blue?style=plastic&logo=github) `port_csdl`
 -  ![link_csdl](https://img.shields.io/badge/Tệp%20dữ%20liệu-:-blue?style=plastic&logo=github) [`Tải về tại đây`](link_csdl)
 
 ###### ![chi_tiet_yeu_cau](https://img.shields.io/badge/Chi%20tiết%20yêu%20cầu%20-:-blue?style=for-the-badge&logo=github)
